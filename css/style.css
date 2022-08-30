@@ -1,0 +1,46 @@
+.nHeader
+{
+    width: 100%;
+    min-height: 80px;
+    background: blue;
+    float: left;
+    margin-bottom: 10px;
+}
+.nLeft
+{
+    width: 100%;
+    min-height: 500px;
+    background: skyblue;
+    float: left;
+}
+.nCenter
+{
+    width: 100%;
+    min-height: 500px;
+    background: slategray;
+    float: left;
+}
+.nRight
+{
+    width: 100%;
+    min-height: 500px;
+    background: skyblue;
+    float: left;
+}
+.nFooter
+{
+    width: 100%;
+    min-height: 80px;
+    background: blue;
+    float: left;
+    margin-top: 10px;
+}
+.nText
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
